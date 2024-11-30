@@ -7,3 +7,5 @@ Interactive design for easy navigation
 Fully responsive and mobile-friendly layout
 Sections for showcasing skills, projects, and contact information
 Optimized for performance and accessibility
+
+**Feel free to check out my live portfolio page:** [(https://kenzacodehub.github.io/Portfolio-Script/Kenza%20Messili.html))
